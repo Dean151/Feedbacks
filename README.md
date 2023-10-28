@@ -8,3 +8,4 @@ I don't have history of every feedback I did in the past, so before September 20
 | ---------- | ------ | -------- | ----------- |
 | [FB13202238](FB13202238) | iOS 16+ | Pending… | ShareLink with a String have different behavior depending on if you provide preview or subject optional parameter. |
 | [FB13202276](FB13202276) | iOS 16+ | Pending… | AirDrop will (except for URLs) always open Files.app, sometime with no option to open the resulting file. |
+| [FB13309090](FB13309090) | Vision OS 1 seed 4 | Pending… | HierarchicalShapeStyle.quinary will crash on visionOS |
